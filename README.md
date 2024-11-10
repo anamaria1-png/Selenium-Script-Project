@@ -1,5 +1,15 @@
 # Selenium-Script-Project
-
+Required knowledge
+• Programming, data structures and algorithms.
+• C, C++, Java, Python.
+• Operating systems, threads, graphical interfaces.
+objection
+• Creation of a Python programming environment that can be replicated on other PCs.
+• Demonstrating the use of Python libraries in new and creative ways.
+• Demonstrating the candidate's programming knowledge, using the Python environment.
+Evaluation criteria
+• Handling errors, recording execution steps, documenting the environment
+• Collaboration with colleagues, questions put to our engineers
 The proposed theme
 1. THE ENVIRONMENT
 Install Python 3, then Selenium Python API to explore web pages. Also installed
