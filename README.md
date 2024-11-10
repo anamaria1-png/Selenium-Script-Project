@@ -1,6 +1,8 @@
 # Selenium-Script-Project
 
-#Required knowledge
+Required knowledge:
+
+
 • Programming, data structures and algorithms.
 • C, C++, Java, Python.
 • Operating systems, threads, graphical interfaces.
