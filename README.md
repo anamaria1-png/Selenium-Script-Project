@@ -1,5 +1,6 @@
 # Selenium-Script-Project
-Required knowledge
+
+#Required knowledge
 • Programming, data structures and algorithms.
 • C, C++, Java, Python.
 • Operating systems, threads, graphical interfaces.
@@ -11,6 +12,9 @@ Evaluation criteria
 • Handling errors, recording execution steps, documenting the environment
 • Collaboration with colleagues, questions put to our engineers
 The proposed theme
+
+
+
 1. THE ENVIRONMENT
 Install Python 3, then Selenium Python API to explore web pages. Also installed
 numpy, opencv, pyautogui and pyaudio.
