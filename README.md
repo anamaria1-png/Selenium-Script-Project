@@ -35,3 +35,5 @@ unforeseen.
 3. PRESENTATION
 The code must be placed on a public github or gitlab repository. You have two weeks at your disposal
 to send the description of the environment installation, and of the scripts.
+
+Very essential to the project is the code to be thoroughly explained and commnented, frequent commits to show the progress. Careful made documentation  with the packages/libraries and errors encountered and how I solved them is also important for the project.
